@@ -1,10 +1,6 @@
 # Analysis-of-Car-Speed-and-Stopping-Distance
 Analysis of Car Speed and Stopping Distance
 
-I'd be happy to help. Please find below a clearer version of the text you provided, with any necessary corrections in spelling, grammar and punctuation:
-
----
-
 For my analysis, I will be using the "Cars" dataset, which is available as a built-in dataset in R. This dataset provides information about the speed and stopping distance of various cars, which is relevant to mechanical engineering.
 
 Here's what you need to know about the variables in this dataset:
