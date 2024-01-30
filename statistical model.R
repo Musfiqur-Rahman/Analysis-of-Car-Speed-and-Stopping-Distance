@@ -20,25 +20,6 @@ speed_stats <- c(
   MAD = mad(speed)
 )
 
-
-qan = quantile(speed)
-
-print(qan)
-
-mean(speed)
-
-median(speed)
-
-sd(speed)
-
-sd(distance)
-
-var(speed)
-var(distance)
-
-mad(speed)
-mad(distance)
-
 print(speed_stats)
 
 # Calculate descriptive statistics for Distance
